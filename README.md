@@ -1,4 +1,4 @@
-# AURELIUS ORA | Haute Horlogerie
+# AURELIUS ORA 
 
 ![Aurelius Ora Hero Preview](public/assets/images/herosection/ezgif-frame-140.png)
 
